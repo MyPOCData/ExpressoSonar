@@ -1,2 +1,2 @@
 # ExpressoSonar
-This is a POC Project
+This is a POC Project.
